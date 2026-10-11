@@ -119,5 +119,5 @@ If you get `JSONB_ERROR_NOMEM` you can either:
 
 This software is distributed under [MIT license](www.opensource.org/licenses/mit-license.php),
 so feel free to integrate it in your commercial products.
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
